@@ -1,0 +1,11 @@
+ProxyIpCenter.db
+*.pyc
+__pycache__/
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.db
